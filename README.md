@@ -34,8 +34,11 @@ app link: https://structural-defect-in-buildings.streamlit.app/
 
 .
 ├── app.py
+
 ├── .env
+
 ├── requirements.txt
+
 └── README.md
 
 ---
@@ -45,6 +48,7 @@ app link: https://structural-defect-in-buildings.streamlit.app/
 ### 1. Clone the Repository
 
 git clone https://github.com/Shreyabhat11/structural_defect
+
 cd construction-defect-detection
 
 ---
