@@ -49,7 +49,7 @@ app link: https://structural-defect-in-buildings.streamlit.app/
 
 git clone https://github.com/Shreyabhat11/structural_defect
 
-cd construction-defect-detection
+cd structural_defect
 
 ---
 
