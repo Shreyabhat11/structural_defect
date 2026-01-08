@@ -3,6 +3,8 @@
 An AI-powered construction defect analysis system that uses Google Gemini Vision to detect and assess structural defects from uploaded site images.  
 This prototype is intended to assist civil and structural engineers in preliminary defect identification, severity assessment, and remediation planning.
 
+
+app link: https://structural-defect-in-buildings.streamlit.app/
 ---
 
 ## 🚀 Features
@@ -42,7 +44,7 @@ This prototype is intended to assist civil and structural engineers in prelimina
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/construction-defect-detection.git  
+git clone https://github.com/Shreyabhat11/structural_defect
 cd construction-defect-detection
 
 ---
